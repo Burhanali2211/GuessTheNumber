@@ -31,8 +31,6 @@ This project is part of my **"30 Python Projects in 30 Days"** challenge to enha
 4. Run the python script:
    ```bash
    python GuessTheNumber.py
-
-
 ##Example Usage
 ```bash
 Welcome to the Number Guessing Game!
